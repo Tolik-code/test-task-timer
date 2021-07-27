@@ -1,0 +1,15 @@
+.timer {
+  border: 1px solid;
+  background-color: rgb(170, 170, 170);
+  width: 350px;
+  height: 100px;
+  padding: 20px;
+  box-sizing: border-box;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.timer__button {
+  padding: 5px;
+  margin-left: 5px;
+}
